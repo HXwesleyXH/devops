@@ -1,5 +1,5 @@
 # Devops
-Some Stuff for devops | Algumas coisas para devops
+Some Stuff for devops
 
 [Zabbix](https://github.com/HXwesleyXH/devops/tree/main/zabbix)
 
